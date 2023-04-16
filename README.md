@@ -22,4 +22,3 @@ It takes city and country as inputs from the user adn tells them the latest weat
 5. The application should be live on the local port 3000.
 6. Type http://localhost:3000/ into a browser.
 7. Now you should be inside the application.
-
